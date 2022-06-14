@@ -1,5 +1,5 @@
 alias vi="nvim"
 alias vim="nvim"
-alias v=" vim ~/.vim/vimrc "
+alias v=" nvim ~/.config/nvim/init.vim"
 alias ra=" ranger "
 alias n="neofetch"

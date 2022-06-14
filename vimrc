@@ -49,6 +49,5 @@ map <right> :vertical resize +5<CR>
 
 call plug#begin()
 
-Plug 'vim-airline/vim-airline'
 
 call plug#end()
