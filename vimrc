@@ -23,6 +23,7 @@ set scrolloff=5
 noremap <LEADER><CR> :nohlsearch<CR>
 map <LEADER>s <C-w>t<C-w>H
 map <LEADER>v <C-w>t<C-w>K
+map <LEADER>i :PlugInstall<CR>
 
 map , 5j
 map . 5k
