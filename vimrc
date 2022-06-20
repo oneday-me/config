@@ -68,3 +68,7 @@ endfunction
 
 inoremap <silent><expr> <c-space> coc#refresh()
 
+"""markdown config"""
+
+source $HOME/.config/nvim/md-snippet.vim
+
